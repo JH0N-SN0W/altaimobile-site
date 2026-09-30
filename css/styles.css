@@ -40,11 +40,11 @@ a:hover { color: var(--peak); }
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  min-height: 84px;
+  min-height: 152px;
 }
 .brand { display: flex; align-items: center; }
 .brand img {
-  height: 64px;
+  height: 128px;
   width: auto;
   background: #000;
 }
@@ -212,7 +212,7 @@ footer {
     display: none;
     position: absolute;
     left: 0; right: 0;
-    top: 84px;
+    top: 152px;
     background: #0c1116;
     border-bottom: 1px solid var(--line);
     flex-direction: column;
